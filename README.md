@@ -1,3 +1,3 @@
-# rutoneindicators
+# toneindicators_ru
 
 Здесь скоро будет кое-что полезное для всех нейроотличных людей.
