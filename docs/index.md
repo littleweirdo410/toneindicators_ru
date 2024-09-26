@@ -10,7 +10,7 @@
 
 Сбор данных в т.ч. и автопереводом с английского
 
-Парсинг из социальных сетей -- вот уже готовый [парсер комментариев ВК](https://vk.barkov.net/parser-kommentariev-vkontakte), можно его заюзать или написать самому на стандартном vk api(https://qna.habr.com/q/1308820). Мб в готовых датасетах по твитору ([раз](https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset?resource=download), [дваз](https://paperswithcode.com/dataset/twitter-conversations-dataset), [триз](https://imerit.net/blog/top-25-twitter-datasets-for-natural-language-processing-and-machine-learning-all-pbm/), [джаз](https://www.trackmyhashtag.com/blog/free-twitter-datasets/) -- потом погляжу) и тамблеру уже есть вхождения с тонтегами
+Парсинг из социальных сетей -- вот уже готовый [парсер комментариев ВК](https://vk.barkov.net/parser-kommentariev-vkontakte), можно его заюзать или написать самому на стандартном [vk api](https://qna.habr.com/q/1308820). Мб в готовых датасетах по твитору ([раз](https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset?resource=download), [дваз](https://paperswithcode.com/dataset/twitter-conversations-dataset), [триз](https://imerit.net/blog/top-25-twitter-datasets-for-natural-language-processing-and-machine-learning-all-pbm/), [джаз](https://www.trackmyhashtag.com/blog/free-twitter-datasets/) -- потом погляжу) и тамблеру уже есть вхождения с тонтегами
 
 Возможно, поможет дообучение какой-то готовой модели для анализа тональности (особенно если учесть, что тексты, просматриваемые в браузере, могут быть разношёрстными, а размеченные тонтегами данные -- в основном неформальные и из социальных сетей) -- взять самую передовую из имеющихся в открытом доступе. 
 
