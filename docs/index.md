@@ -1,5 +1,38 @@
 ## Терминология
 
+### Об особенностях употребления и перевода терминов «disability» и «инвалидность»
+
+В популярных онлайн-переводчиках:
+
+В WooordHunt предложены следующие варианты перевода: «инвалидность», «нетрудоспособность», «неспособность», «бессилие», «неправоспособность».
+
+Примеры словосочетаний переведены не совсем корректно: learning disability — не «необучаемость», а расстройства или дефициты обучения
+
+mental disability — психическая неполноценность. мало того, что неверный, так ещё и оскорбительный перевод
+
+People with the learning disability dyslexia were once simply dismissed as dunces.
+
+Людей, страдающих неспособностью к обучению, дизлексией, когда-то просто называли тупицами. (орфография и пунктуация оригинала сохранены)
+
+В Glosbe слову disability сопоставлены три перевода на русский: «инвалидность», «нетрудоспособность» и «неспособность».
+
+Мультитран почти единственным, помимо кучи синонимичных выше упомянутых традиционных вариантов перевода, предлагает в графе с медицинскими значениями термина перевод затруднение, нарушение функций 
+
+В результате мы сами, аутичные, как люди, склонные понимать значение слов буквально, подхватываем и несём это заблуждение в массы. 
+
+В словаре Мэрриам-Уэбстер основное значение слова disability — «физическое, ментальное, когнитивное состояние или особенность развития, которая ухудшает или ограничивает способность человека выполнять определённые задачи или действия или принимать участие в типичных повседневных активностях и взаимодействиях». [<a href="#"></a>]
+
+В качестве первого примера употребления слова в таком значении в словаре выведено очень показательное предложение с новостного ресурса Science News:
+
+> Scientists have tentatively linked the reading disability known as dyslexia to a bevy of brain disturbances.
+
+Если посмотреть в деталях на словосочетание «the reading disability known as dyslexia», можно заметить, что использование слов «инвалидность» или «неспособность» для перевода слова disability в корне исказит его смысл. Фраза «неспособность к чтению, известная как дислексия» звучит корректно исключительно с грамматической точки зрения. Дислексия не является н. Также дислексия не является инвалидностью, поскольку не ведёт к нетрудоспособности. 
+
+Кембриджский словарь лишь подтверждает предыдущие наблюдения: [<a href="#"></a>]
+
+* Disability — заболевание, травма или состояние, из-за которого может быть трудно делать что-то, что делают другие люди, и которое обычно является постоянным или продолжается в течение длительного времени.
+* Disability — физическое или психическое состояние, при котором кто-либо не в состоянии действовать способом, который считается обычным для большинства людей:
+
 ### Нейроразнообразие и нейроотличия
 
 * Термин **нейроразнообразие (neurodiversity)** охватывает все разновидности особенностей нейрокогнитивного функционирования, присущих человеку как виду. Нейроразнообразие — это биологический факт, ведь мозг и мышление каждого человека устроены уникальным образом: если бы мы все мыслили одинаково, мир бы выглядел совершенно иначе. Термин был введён в 1997 году австралийским социологом Джуди Сингер [<a href="#1">1</a>].
@@ -21,21 +54,15 @@
 * Синдромальная и спектральная концепции аутизма, опираюсь не на МКБ-10, а на МКБ-11
 * Лично я не возражаю (формулировку «человек с аутизмом» внезапно понимают лучше)
 
-### О невзаимозаменяемости терминов «disability» и «инвалидность»
-
-
-
 ## Индикаторы тона
 
 Possible social applications of tone indicators are to create an inclusive web experience that allows everyone to confidently understand and effectively communicate. As stated before, tone indicators have helped primarily the neurodivergent community online but have also successfully been adapted into other realms of online chat-based media and been used by others. In terms of technical applications, this may help sentimental analysis research. By simply adding in a few characters in one's post/text/tweet/etc. one can help train analysis models one positive or negative indicating speech/tone. Thus, if the list of tone indicators are agreed upon, then sentimental analysis models have training material. [<a href="#4">4</a>]
 
 Сведения
 
-Неполный, но вполне наглядный список примеров на русском можно найти [здесь](https://vk.com/wall-214105317_9030?ysclid=m1iweqhw4b110113051) и [здесь](https://rutoneindicators.carrd.co/). На английском -- [здесь](https://www.textline.com/blog/tone-indicator-list).
+Неполный, но вполне наглядный список примеров на русском можно найти [здесь](https://vk.com/wall-214105317_9030?ysclid=m1iweqhw4b110113051), [здесь](https://rutoneindicators.carrd.co/) и [здесь](https://tonepop.carrd.co/). На английском -- [здесь](https://www.textline.com/blog/tone-indicator-list), [здесь](https://toneindicators.carrd.co/#masterlist) и [здесь](https://blog.textedly.com/tone-indicators-and-how-to-use-them).
 
 Многоклассовая многометочная классификация
-
-Описать социокультурные и лингвистические посылки формирования данного явления, вычленить его основные разновидности
 
 Актуальность -- построение инклюзивного общества
 
@@ -62,3 +89,14 @@ Possible social applications of tone indicators are to create an inclusive web e
 <a name="4">4.</a> Walker, N. NEURODIVERSITY: SOME BASIC TERMS & DEFINITIONS / N. Walker. — Текст : электронный // Neuroqueer: The Writings of dr. Nick Walker : [сайт]. — URL: https://neuroqueer.com/neurodiversity-terms-and-definitions/ (дата обращения: 25.03.2025).
 
 <a name="">.</a> Sarabia, Andrea (2023). Poster: The Practice of Tone Indicators in Chat-based Communication. Infinite Loop, volume 1. Michigan Technological University. Showcase[AI] Winner. — URL: https://loop.cs.mtu.edu/index.php/volume1/ (дата обращения: 23.03.2025)
+
+<a name="">.</a> American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. Arlington, VA, American Psychiatric Association, 2013.
+
+<a name="">.</a> Перевод disability на русский. — Текст : электронный // Glosbe : [сайт]. — URL: https://glosbe.com/en/ru/disability (дата обращения: 21.03.2025).
+
+<a name="">.</a> disability — английский перевод. — Текст : электронный // Мультитран : [сайт]. — URL: https://www.multitran.com/m.exe?l1=2&l2=1&s=disability (дата обращения: 29.03.2025).
+
+<a name="">.</a> DISABILITY Definition & Meaning. — Текст : электронный // Merriam-Webster Dictionary : [сайт]. — URL: https://www.merriam-webster.com/dictionary/disability (дата обращения: 21.03.2025).
+
+<a name="">.</a> DISABILITY | English Meaning. — Текст : электронный // Cambridge Dictionary : [сайт]. — URL: https://dictionary.cambridge.org/dictionary/english/disability (дата обращения: 21.03.2025).
+
