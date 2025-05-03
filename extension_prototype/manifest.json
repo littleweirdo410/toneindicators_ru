@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Tonifier",
+    "version": "1.0",
+    "description": "Размечает контент страницы индикаторами тона по запросу пользователя",
+    "permissions": ["scripting"],
+    "host_permissions": ["<all_urls>"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": []
+      }
+    ]
+  }
+  
