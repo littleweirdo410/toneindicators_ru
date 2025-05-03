@@ -2,12 +2,19 @@
     const selection = window.getSelection();
     const selectedText = selection ? selection.toString().trim() : '';
 
+    if (!selectedText) {
+        alert('Пожалуйста, выделите текст на странице');
+        return;
+    }
+
+    const tooltip = showTooltip(selection, 'Обрабатываем текст...');
+
     const labels = await getLabelsFromServer(selectedText);
 
     if (labels.length === 0) {
-        showTooltip(selection, 'Нет тега');
+        updateTooltip(tooltip, 'Нет тега');
     } else {
-        showTooltip(selection, `${labels.join(', ')}`);
+        updateTooltip(tooltip, `${labels.join(', ')}`);
     }
 })();
 
@@ -39,7 +46,6 @@ function showTooltip(selection, message) {
     const rect = range.getBoundingClientRect();
 
     const tooltip = document.createElement('div');
-    tooltip.textContent = message;
     tooltip.style.position = 'absolute';
     tooltip.style.top = `${rect.top + window.scrollY - 30}px`;
     tooltip.style.left = `${rect.left + window.scrollX}px`;
@@ -51,5 +57,27 @@ function showTooltip(selection, message) {
     tooltip.style.zIndex = '10000';
     tooltip.style.boxShadow = '0 2px 6px rgba(0,0,0,0.2)';
 
+    const messageSpan = document.createElement('span');
+    messageSpan.textContent = message;
+
+    const closeBtn = document.createElement('span');
+    closeBtn.textContent = '✖';
+    closeBtn.style.cursor = 'pointer';
+    closeBtn.style.fontWeight = 'bold';
+    closeBtn.style.marginLeft = 'auto';
+
+    closeBtn.addEventListener('click', () => {
+        tooltip.remove();
+    });
+
+    tooltip.appendChild(messageSpan);
+    tooltip.appendChild(closeBtn);
     document.body.appendChild(tooltip);
+
+    return { tooltip, messageSpan };
+}
+
+function updateTooltip(tooltipObj, newMessage) {
+    if (!tooltipObj) return;
+    tooltipObj.messageSpan.textContent = newMessage;
 }
