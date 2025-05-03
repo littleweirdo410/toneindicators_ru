@@ -80,6 +80,10 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 # Технологический стек
 
+**Браузерное расширение:**
+
+- 
+
 # Использованные ресурсы
 
 <a name="1">1.</a> Harris, J. The mother of neurodiversity: how Judy Singer changed the world / J. Harris. — Текст : электронный // The Guardian : [сайт]. — URL: https://www.theguardian.com/world/2023/jul/05/the-mother-of-neurodiversity-how-judy-singer-changed-the-world (дата обращения: 24.03.2025).
