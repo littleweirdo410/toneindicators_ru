@@ -80,6 +80,10 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 # Технологический стек
 
+## Теоретическое обоснование
+
+Наша задача попадает в 
+
 **Браузерное расширение:**
 
 - 
@@ -106,3 +110,5 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 <a name="">.</a> DISABILITY | English Meaning. — Текст : электронный // Cambridge Dictionary : [сайт]. — URL: https://dictionary.cambridge.org/dictionary/english/disability (дата обращения: 21.03.2025).
 
+<a name="">.</a> Mao Y, Liu Q, Zhang Y. Sentiment analysis methods, applications, and challenges: A systematic literature review. Journal of King Saud University Computer and information sciences/Maǧalaẗ ǧamʼaẗ al-malīk Saud : ùlm al-ḥasib wa al-maʼlumat [Internet]. 2024 Apr 1;36(4):102048–8. Available from: https://www.sciencedirect.com/science/article/pii/S131915782400137X
+‌
