@@ -82,7 +82,7 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 ## Теоретическое обоснование
 
-Наша задача попадает в 
+Данная задача попадает в обширное подмножество задач **обработки естественного языка** (ОЕЯ, NLP — Natural Language Processing), называемое **анализом тональности** (SA — Sentiment Analysis). Анализ тональности — 
 
 **Браузерное расширение:**
 
