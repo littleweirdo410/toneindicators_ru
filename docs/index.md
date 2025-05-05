@@ -82,7 +82,11 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 ## Теоретическое обоснование
 
-Данная задача попадает в обширное подмножество задач **обработки естественного языка** (ОЕЯ, NLP — Natural Language Processing), называемое **анализом тональности** (SA — Sentiment Analysis). Анализ тональности — 
+Данная задача попадает в обширное подмножество задач **обработки естественного языка** (ОЕЯ, NLP — Natural Language Processing), называемое автоматическим **анализом тональности** (SA — Sentiment Analysis). Тональность текста — это выраженное в тексте эмоциональное мнение относительно чего-либо. Тональность (в общем случае) можно измерять при помощи шкалы в диапазоне от положительного отношения до отрицательного. Шкала обычно (но необязательно) является дискретной и в зависимости от задачи включает определенное количество значений (классов). Следовательно, **анализ тональности** — это автоматический анализ текста для определения выраженных в нём эмоциональных отношений и настроений. [Котельников]
+
+В нашем случае в качестве таких классов и такой шкалы, относительно которой мы определяем эмоциональное настроение текста, выступают индикаторы тона.
+
+
 
 **Браузерное расширение:**
 
@@ -112,3 +116,4 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 <a name="">.</a> Mao Y, Liu Q, Zhang Y. Sentiment analysis methods, applications, and challenges: A systematic literature review. Journal of King Saud University Computer and information sciences/Maǧalaẗ ǧamʼaẗ al-malīk Saud : ùlm al-ḥasib wa al-maʼlumat [Internet]. 2024 Apr 1;36(4):102048–8. Available from: https://www.sciencedirect.com/science/article/pii/S131915782400137X
 ‌
+<a name="">.</a> Котельников Е. В. Комбинированный метод автоматического определения тональности текста // Программные продукты и системы. 2012. №3. URL: https://cyberleninka.ru/article/n/kombinirovannyy-metod-avtomaticheskogo-opredeleniya-tonalnosti-teksta (дата обращения: 04.05.2025).
