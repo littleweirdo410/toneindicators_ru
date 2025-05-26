@@ -87,6 +87,8 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 Неполный, но вполне наглядный список примеров на русском можно найти [здесь](https://vk.com/wall-214105317_9030?ysclid=m1iweqhw4b110113051), [здесь](https://rutoneindicators.carrd.co/) и [здесь](https://tonepop.carrd.co/). На английском -- [здесь](https://www.textline.com/blog/tone-indicator-list), [здесь](https://toneindicators.carrd.co/#masterlist) и [здесь](https://blog.textedly.com/tone-indicators-and-how-to-use-them).
 
+* [Список](https://github.com/39software/tonetag.is/blob/main/src/main/resources/META-INF/data/tags/en_gb.json) индикаторов тона, актуальных для британского английского, в формате JSON можно найти в репозитории для сайта-справочника по тонтегам. Сам сайт сейчас недоступен, но все материалы есть на [GitHub](https://github.com/39software/tonetag.is). В этом источнике полезно то, что для каждого индикатора тона перечислены известные создателю сайта вариации (алиасы). Обладая этим знанием, можно будет парсить больше разнообразного англоязычного контента, содержащего тонтеги. Автор сайта — Jasmijn Emilia Rosalina Knoope, DevOps в нидерландской IT-компании Proxy Services B.V., сертифицированный архитектор Red Hat (кстати, сертификация от Red Hat — [вещь серьёзная и весьма дорогостоящая](https://habr.com/ru/companies/redhatrussia/articles/414733/)).
+
 Многоклассовая многометочная классификация
 
 Актуальность -- построение инклюзивного общества
@@ -115,7 +117,11 @@ Possible social applications of tone indicators are to create an inclusive web e
 
 **Браузерное расширение:**
 
-- 
+-   
+
+**Возможные проблемы**:
+
+
 
 # Использованные ресурсы
 
