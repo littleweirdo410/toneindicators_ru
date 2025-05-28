@@ -37,7 +37,6 @@ jobs:
         with:
           source: ./docs
           destination: ./toneindicators_ru
-          submodules: false
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
