@@ -1,0 +1,3 @@
+[submodule "pytumblrparser"]
+	path = pytumblrparser
+	url = https://github.com/littleweirdo410/pytumblrparser
